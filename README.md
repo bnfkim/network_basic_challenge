@@ -14,5 +14,5 @@
 | 5 Day | 22.08.27 | lesson 5 | O |
 | 6 Day | 22.08.30 | lesson 6 | O |
 | 7 Day | 22.08.31 | lesson 7 | O |
-| 8 Day | 22.08.19 | lesson 8 | O |
-| 9 Day | 22.08.20 | lesson 9 |  |
+| 8 Day | 22.09.01 | lesson 8 | O |
+| 9 Day | 22.09.02 | lesson 9 | O |
